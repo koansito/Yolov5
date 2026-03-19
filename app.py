@@ -1,9 +1,9 @@
-from PIL import Image
 import io
 import streamlit as st
 import numpy as np
 import pandas as pd
 import torch
+from PIL import Image
 
 st.set_page_config(
     page_title="Detección de Objetos en Tiempo Real",

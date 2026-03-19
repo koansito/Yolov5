@@ -12,7 +12,7 @@ st.set_page_config(
 )
 
 image = Image.open('refference.jpg')
-st.image(image,width=300)
+st.image(image,width=600)
 
 @st.cache_resource
 def load_model():

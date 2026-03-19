@@ -24,7 +24,7 @@ def load_model():
         st.error(f"❌ Error al cargar el modelo: {str(e)}")
         return None
 
-st.title("🔍 Detección de Objetos en Imágenes")
+st.title("☆*: .｡. o(≧▽≦)o .｡.:*☆ detectamos imagenes a solo mil la hora")
 st.markdown("Esta aplicación utiliza YOLOv5 para detectar objetos en imágenes capturadas con tu cámara.")
 
 

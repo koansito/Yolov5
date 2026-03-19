@@ -6,8 +6,8 @@ import torch
 from PIL import Image
 
 st.set_page_config(
-    page_title="Detección de Objetos en Tiempo Real",
-    page_icon="🔍",
+    page_title="detectamos imagenes a solo mil la hora",
+    page_icon="☆*: .｡. o(≧▽≦)o .｡.:*☆",
     layout="wide"
 )
 

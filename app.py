@@ -24,7 +24,7 @@ def load_model():
 st.title("🔍 Detección de Objetos en Imágenes")
 st.markdown("Esta aplicación utiliza YOLOv5 para detectar objetos en imágenes capturadas con tu cámara.")
 
-image = Image.open('rosemary.png')
+image = Image.open('refference.jpg')
 
 st.image(image,width=300)
 
